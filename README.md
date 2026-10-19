@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,35:7928ca,70:4c1d95,100:00d2ff&height=300&section=header&text=Syed%20Farhan%20Fawad&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20FULL-STACK%20%E2%80%A2%20AI%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%9A%A1&descSize=21&descAlignY=58&descColor=00f2fe&stroke=0d1117&strokeWidth=3" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:111827,75:065f46,100:0d9488&height=280&section=header&text=Syed%20Farhan%20Fawad&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data%20Analytics&descSize=20&descAlignY=58&descColor=6ee7b7" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%F0%9F%9A%80+Software+Engineer+in+the+making;%F0%9F%92%BB+Building+full-stack+apps+with+React+%26+Node.js;%F0%9F%93%8A+Turning+raw+data+into+insights;%E2%98%81%EF%B8%8F+Exploring+AWS+%26+Cloud+Computing;%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB+Technical+Development+Lead+%40+OSCode+Atria" alt="Typing SVG" />
@@ -266,5 +266,5 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 ⭐ *If you like what you see, drop a star on my repos!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,35:4c1d95,70:7928ca,100:ff007f&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70&stroke=0d1117&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,25:065f46,60:111827,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 </div>
