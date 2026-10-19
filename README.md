@@ -48,7 +48,7 @@ const farhan = {
 <td width="40%" valign="top">
 
 ### ⚡ Quick Snapshot
-🎓 **4** internships completed<br/>
+🎓 **6** internships completed<br/>
 🏆 **9.29 / 10** project evaluation score<br/>
 💰 **7+** sponsorships secured (+60% funding)<br/>
 🎤 **3+** events organized<br/>
