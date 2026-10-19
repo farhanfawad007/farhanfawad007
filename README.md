@@ -1,29 +1,28 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<h1>Syed Farhan Fawad</h1>
-
-<p>
-  <strong>Software Engineer &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Data & Cloud</strong><br/>
-  <sub>Bengaluru, India &nbsp;·&nbsp; Technical Development Lead @ OSCode Atria</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:111827,75:065f46,100:0d9488&height=280&section=header&text=Syed%20Farhan%20Fawad&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data%20Analytics&descSize=20&descAlignY=58&descColor=6ee7b7" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&multiline=false&width=650&height=32&lines=Architecting+full-stack+applications+in+React+%26+Node.js;Turning+raw+datasets+into+clear+business+intelligence;Exploring+cloud+infrastructure+and+system+design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%F0%9F%9A%80+Software+Engineer+in+the+making;%F0%9F%92%BB+Building+full-stack+apps+with+React+%26+Node.js;%F0%9F%93%8A+Turning+raw+data+into+insights;%E2%98%81%EF%B8%8F+Exploring+AWS+%26+Cloud+Computing;%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB+Technical+Development+Lead+%40+OSCode+Atria" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<p>
-  <a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/syedfarhanfawad007@gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/syed-farhan-fawad/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=farhanfawad007&label=Profile%20Views&color=21262d&style=flat-square&labelColor=161b22" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=farhanfawad007&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/farhanfawad007?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/farhanfawad007?style=for-the-badge&logo=starship&color=302b63&labelColor=0f0c29)
+
+<br/>
+
+<a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/syed-farhan-fawad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" /></a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================ ABOUT ============================ -->
 ## 👨‍💻 About Me
@@ -85,7 +84,7 @@ const farhan = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================ PROJECTS ============================ -->
 ## 🚀 Featured Projects
@@ -150,6 +149,7 @@ Arduino & ESP8266/ESP32 builds featuring **sensor integration**, **firmware prog
 </td>
 </tr>
 </table>
+
 
 <!-- ============================ EXPERIENCE ============================ -->
 ## 💼 Experience Timeline
@@ -217,7 +217,7 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 | **Member, Technical** | Atria Code Committee | Nov 2025 – Present | Collaborative software projects and debugging |
 | **Member, Technical** | IoT Forge Club | Dec 2025 – May 2026 | Arduino/ESP sensor and firmware projects |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================ STATS ============================ -->
 ## 📊 GitHub Analytics
@@ -229,7 +229,13 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 <img src="https://streak-stats.demolab.com/?user=farhanfawad007&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
 
+
+
 </div>
+
+
+
+
 
 ### 🎮 Pac-Man 
 
@@ -245,23 +251,20 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
 
----
-
-<!-- ============================ CONTACT & FOOTER ============================ -->
+<!-- ============================ CONTACT ============================ -->
 ## 🤝 Contact
 
 <div align="center">
 
-<p>I am always open to connecting with fellow engineers, discussing system architecture, and collaborating on impactful software projects.</p>
+*I love connecting with developers, exchanging ideas, and collaborating on useful software projects.*
 
-<p>
-  <a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/Email-syedfarhanfawad007@gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/syed-farhan-fawad/"><img src="https://img.shields.io/badge/LinkedIn-syed--farhan--fawad-21262d?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" /></a>
-  <a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/GitHub-farhanfawad007-21262d?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a>
-</p>
+<a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-302b63?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/syed-farhan-fawad/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge" /></a>
 
-<br/>
+<br/><br/>
 
-<sub><b>Syed Farhan Fawad</b> &nbsp;·&nbsp; Bengaluru, India</sub>
+⭐ *If you like what you see, drop a star on my repos!* ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,25:065f46,60:111827,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 </div>
