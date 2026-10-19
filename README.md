@@ -150,7 +150,6 @@ Arduino & ESP8266/ESP32 builds featuring **sensor integration**, **firmware prog
 </tr>
 </table>
 
-<sub>💡 Replace the `YOUR_*` links with your real repo URLs, or delete a card if the repo doesn't exist yet.</sub>
 
 <!-- ============================ EXPERIENCE ============================ -->
 ## 💼 Experience Timeline
@@ -230,17 +229,15 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 <img src="https://streak-stats.demolab.com/?user=farhanfawad007&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanfawad007&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&custom_title=Contribution%20Activity" width="100%" />
+
 
 </div>
 
-### 🏅 Achievements
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=farhanfawad007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
 
-### 🎮 Pac-Man Contribution Game
+
+
+### 🎮 Pac-Man 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfawad007/farhanfawad007/output/pacman-contribution-graph-dark.svg">
