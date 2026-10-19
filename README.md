@@ -1,3 +1,4 @@
+<!-- ============================ HEADER ============================ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Syed%20Farhan%20Fawad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data&descSize=20&descAlignY=60&descColor=58A6FF" width="100%" alt="header" />
@@ -8,21 +9,22 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=starship&color=302b63&labelColor=0f0c29)
+![Profile Views](https://komarev.com/ghpvc/?username=farhanfawad007&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/farhanfawad007?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/farhanfawad007?style=for-the-badge&logo=starship&color=302b63&labelColor=0f0c29)
 
 <br/>
 
 <a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#-contact"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" /></a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ============================ ABOUT ============================ -->
 ## 👨‍💻 About Me
 
 <table>
@@ -57,6 +59,7 @@ const farhan = {
 </tr>
 </table>
 
+<!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -83,13 +86,14 @@ const farhan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ============================ PROJECTS ============================ -->
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 [Skill Trader](https://github.com/YOUR_GITHUB_USERNAME/skill-trader)
+### 🔁 [Skill Trader](https://github.com/farhanfawad007/skill-trader)
 > *Swap skills, not money.*
 
 A skill-exchange platform with **match-percentage** and **availability-based matching**, swap request lifecycle, ratings & feedback, and **gamification badges**. Dark/light responsive UI with offline persistence.
@@ -103,7 +107,7 @@ A skill-exchange platform with **match-percentage** and **availability-based mat
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce Web App](https://github.com/YOUR_GITHUB_USERNAME/YOUR_ECOMMERCE_REPO)
+### 🛒 [E-Commerce Web App](https://github.com/farhanfawad007/YOUR_ECOMMERCE_REPO)
 > *End-to-end shopping experience.*
 
 Responsive storefront with **RESTful APIs**, secure authentication, third-party API integration, **Jest unit tests**, optimized load times, and AWS (EC2, S3) deployment.
@@ -120,7 +124,7 @@ Responsive storefront with **RESTful APIs**, secure authentication, third-party 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Data Analytics Dashboards](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DATA_REPO)
+### 📊 [Data Analytics Dashboards](https://github.com/farhanfawad007/YOUR_DATA_REPO)
 > *From messy data to clear decisions.*
 
 Python/Pandas cleaning pipelines, an **Excel sales dashboard** (Pivot Tables), and cross-filtering **Power BI & Tableau** dashboards on **HR attrition** and the **Global Happiness Index**.
@@ -133,7 +137,7 @@ Python/Pandas cleaning pipelines, an **Excel sales dashboard** (Pivot Tables), a
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [IoT Projects](https://github.com/YOUR_GITHUB_USERNAME/YOUR_IOT_REPO)
+### 🔌 [IoT Projects](https://github.com/farhanfawad007/YOUR_IOT_REPO)
 > *Where software meets hardware.*
 
 Arduino & ESP8266/ESP32 builds featuring **sensor integration**, **firmware programming**, and **device communication**.
@@ -146,6 +150,9 @@ Arduino & ESP8266/ESP32 builds featuring **sensor integration**, **firmware prog
 </tr>
 </table>
 
+<sub>💡 Replace the `YOUR_*` links with your real repo URLs, or delete a card if the repo doesn't exist yet.</sub>
+
+<!-- ============================ EXPERIENCE ============================ -->
 ## 💼 Experience Timeline
 
 ```text
@@ -200,6 +207,7 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 </details>
 
+<!-- ============================ LEADERSHIP ============================ -->
 ## 🏆 Leadership & Community
 
 | 🎖️ Role | 🏛️ Organization | 📅 Period | ✨ Impact |
@@ -212,23 +220,24 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ============================ STATS ============================ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=12" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=farhanfawad007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&border_radius=12" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfawad007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=12" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=farhanfawad007&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanfawad007&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
 ### 🏅 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=farhanfawad007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ### 🌆 3D Contribution Skyline
@@ -237,6 +246,7 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
 
+<!-- ============================ CONTACT ============================ -->
 ## 🤝 Contact
 
 <div align="center">
@@ -245,7 +255,7 @@ SkillCave        Krutanic        Rotaract/Atria  →  SkillCraft
 
 <a href="mailto:syedfarhanfawad007@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-302b63?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge" /></a>
+<a href="https://github.com/farhanfawad007"><img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge" /></a>
 
 <br/><br/>
 
